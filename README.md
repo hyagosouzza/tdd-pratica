@@ -1,5 +1,5 @@
 # TDD na prática
-Projeto simples escrito na linguagem Java com o intúito depraticar o TDD.
+Projeto simples escrito na linguagem Java com o intúito de praticar o TDD.
 
 ## Conceito
 O sistema consiste em simular um leilão, com lances, usuários e leiloeiro (avaliador).
